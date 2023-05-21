@@ -2,10 +2,10 @@
 
 ***Integrantes:***
 
-Pablo Marca
+-Pablo Marca
 
-Ary Femenía
+-Ary Femenía
 
-Gisela Ubaldo
+-Gisela Ubaldo
 
-Francisco Hubert
+-Francisco Hubert
